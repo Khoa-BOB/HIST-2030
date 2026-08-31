@@ -5,15 +5,15 @@ Everyone in this lecture, we’re going to pick him up a contest for empire wrap
 
 
 ## Summary
-# Lecture 3: European Empires and Tennessee History — Entities, Relationships & Summary
+### Lecture 3: European Empires and Tennessee History — Entities, Relationships & Summary
 
-## 1. Key Keyword Entities in Tennessee History
+#### 1. Key Keyword Entities in Tennessee History
 
-### Imperial Rivalry & Context
+##### Imperial Rivalry & Context
 * **Contest for Empire (Late 1600s–18th Century):** Escalating series of military conflicts among Spain, France, and Britain over territorial and imperial ambitions in North America, beginning around 1688.
 * **French and Indian War / Seven Years' War (1754–1763):** The North American theater of a global conflict between Britain and France; the French were outnumbered roughly six-to-one by English colonists but were more politically unified. Both powers actively courted Indigenous alliances, most importantly with the Cherokee.
 
-### Key Historical Figures
+##### Key Historical Figures
 * **Oconostota:** Prominent Cherokee leader; led a peace delegation to Charleston, was taken hostage at Fort Prince George, and later commanded the siege of Fort Loudoun.
 * **William Henry Lyttelton:** Colonial Governor of South Carolina; halted arms shipments to the Cherokee, took Oconostota's delegation hostage, and helped precipitate the Anglo-Cherokee War.
 * **Captain Raymond Demere:** Royal army officer appointed to command the construction and initial garrison of Fort Loudoun.
@@ -21,13 +21,13 @@ Everyone in this lecture, we’re going to pick him up a contest for empire wrap
 * **John William Gerard De Brahm:** Engineer appointed to supervise the construction of Fort Loudoun.
 * **Daniel Tortora (historian):** Characterized the Anglo-Cherokee War as a near-cataclysmic turning point for the Cherokee Nation, noting roughly one-third of the Cherokee died of combat and disease (smallpox, measles) between 1758 and 1761.
 
-### Places & Sites
+##### Places & Sites
 * **Overhill Cherokee Territory:** Cherokee towns in southeastern Tennessee near the Tennessee River, requested by the Cherokee to be protected by a British-built fort.
 * **Fort Loudoun (1756/57–1760):** British fort built in Overhill territory near a principal Cherokee "over-town" to secure the Anglo-Cherokee alliance; besieged and surrendered in 1760, later abandoned.
 * **Fort Prince George:** British fort where Oconostota's delegation was held hostage, triggering the chain of events leading to war.
 * **Tellico Lake / TVA Dam Project:** Modern hydroelectric project that submerged many Overhill Cherokee and Fort Loudoun-era sites, a controversial development at the time.
 
-### Major Events
+##### Major Events
 * **Construction of Fort Loudoun (1756–1757):** Built by Virginia and South Carolina forces at Cherokee request to protect Cherokee women and children during the French and Indian War; garrisoned by about 80 British regulars, some with families.
 * **Frontier Killings & Retaliation (Late 1750s):** Cherokee warriors returning from the Ohio Valley clashed with Virginia frontiersmen over stolen horses; killings and retaliatory violence spread into South Carolina.
 * **Arms Embargo & Hostage-Taking:** Governor Lyttelton cut off arms/ammunition to the Cherokee, then took Oconostota's peace delegation hostage at Fort Prince George pending surrender of accused warriors.
@@ -38,7 +38,7 @@ Everyone in this lecture, we’re going to pick him up a contest for empire wrap
 
 ---
 
-## 2. Relationships Between Entities
+#### 2. Relationships Between Entities
 
 ```text
 [Imperial Contest for North America] (Spain, France, Britain, from ~1688)
@@ -80,7 +80,7 @@ Everyone in this lecture, we’re going to pick him up a contest for empire wrap
       • Anglo-Cherokee relationship reshaped heading into later 18th century
 ```
 
-### Key Dynamics & Evolutionary Drivers
+##### Key Dynamics & Evolutionary Drivers
 1. **Alliance Politics of Empire:** During the French and Indian War, both Britain and France needed Indigenous military support; the Cherokee used this leverage to secure British-built forts (Fort Loudoun) for protection.
 2. **Fragile Alliance to Open War:** A frontier killing spiral, a British arms embargo, and Governor Lyttelton's hostage-taking at Fort Prince George converted a working Anglo-Cherokee alliance into full-scale war.
 3. **Siege, Massacre, and Punitive Reprisal:** The siege and fall of Fort Loudoun (1760), followed by the post-surrender massacre, provoked a British punitive campaign (1761) that devastated Cherokee towns before peace was restored.
@@ -88,7 +88,7 @@ Everyone in this lecture, we’re going to pick him up a contest for empire wrap
 
 ---
 
-## 3. Lecture Summary
+#### 3. Lecture Summary
 
 This lecture examines how the imperial rivalry between Spain, France, and Britain in late 17th- and 18th-century North America shaped, and was shaped by, Anglo-Cherokee relations in Tennessee:
 

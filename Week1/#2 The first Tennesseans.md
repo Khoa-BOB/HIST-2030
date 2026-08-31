@@ -6,32 +6,32 @@ Everyone in this video lecture we’re going to think about about the first Tenn
 
 ## summary:
 
-## 1. Key Keyword Entities in Tennessee History
+### 1. Key Keyword Entities in Tennessee History
 
-### Chronological Eras & Cultural Traditions
+#### Chronological Eras & Cultural Traditions
 * **Paleo-Indian Period (~13,000–12,000 BP):** Nomadic hunter-gatherers; earliest human presence in Tennessee.
 * **Clovis Culture:** Earliest documented Paleo-Indian culture in North America, named after the Clovis site in New Mexico, with extensive campsites found in Tennessee.
 * **Archaic Tradition (~8,000 BP / 6000 BCE):** Semi-nomadic hunter-gatherers characterized by seasonal foraging migrations rather than daily movement following Ice Age climate warming.
 * **Woodland Tradition (~1000 BCE–900 CE):** Semi-permanent to permanent village settlements (~100 inhabitants), early agriculturalists (squash, corn), mound builders, and regional traders.
 * **Mississippian Culture / Tradition (~900–1600 CE):** Large urbanized/town settlements, complex social hierarchies led by chiefs and priests, platform mound construction, and extensive agricultural/trade networks.
 
-### Archaeological & Geographic Entities
+#### Archaeological & Geographic Entities
 * **Western Valley of the Tennessee River:** Location of some of the largest and most densely occupied Clovis campsites in the eastern United States.
 * **Middle Tennessee Mastodon Butchering Site:** An archaeological kill/butchering site dating back over 13,000 years, providing direct evidence of early Paleo-Indian megafauna hunting in the Mid-South.
 * **Pinson Mounds State Archaeological Park (near Jackson, TN):** Prominent Middle Woodland period earthwork and burial mound complex.
 * **Mississippi River Valley:** The geographic origin and core conduit for the expansion of Mississippian culture eastward across Tennessee.
 
-### Historic Indigenous Polities & Nations
+#### Historic Indigenous Polities & Nations
 * **Pre-contact Chiefdoms / Polities:** Small, decentralized Mississippian political units existing across Tennessee prior to 1540.
 * **Historic Nations (Cherokee, Chickasaw, Muscogee/Creek, Choctaw):** Larger tribal confederacies that formed through political and demographic coalescence in the 17th and 18th centuries.
 
-### European Explorers & Contact Period
+#### European Explorers & Contact Period
 * **Hernando de Soto (1540 Entrada):** Spanish conquistador who led the first major European expedition into the interior Southeast and entered Eastern Tennessee.
 * **Yamasee / Early 18th-Century Era (~1715):** The benchmark period marking the collapse of the Mississippian world and the rise of the historic tribal confederacies and European trade alliances.
 
 ---
 
-## 2. Relationships Between Entities
+### 2. Relationships Between Entities
 
 ```text
 [Paleo-Indians / Clovis Culture] (~13,000–12,000 BP)
@@ -60,14 +60,14 @@ Everyone in this video lecture we’re going to think about about the first Tenn
 [Historic Tribal Nations] (Cherokee, Chickasaw, Creek, Choctaw) (1700s+)
 ```
 
-### Key Dynamics & Evolutionary Drivers
+#### Key Dynamics & Evolutionary Drivers
 1. **Technological & Subsistence Evolution:** Nomadic megafauna hunters (**Clovis/Paleo-Indian**) $\rightarrow$ seasonal foragers (**Archaic**) $\rightarrow$ sedentary farmers and mound builders (**Woodland**) $\rightarrow$ hierarchical, town-dwelling agricultural societies (**Mississippian**).
 2. **Contact & Disruption:** **Hernando de Soto’s 1540 entrada** marked the initial catalyst of European disease, violence, and geopolitical destabilization across Southeastern chiefdoms.
 3. **Shatter Zone to Coalescence:** Between **1540 and 1715**, the collapse of small Mississippian polities forced surviving remnants to reorganize and **coalesce** into the larger historic tribal nations (**Cherokee, Chickasaw, Creek, Choctaw**).
 
 ---
 
-## 3. Lecture Summary
+### 3. Lecture Summary
 
 The lecture examines the prehistoric human occupation of Tennessee and the transformation of Indigenous societies leading up to and following European contact:
 

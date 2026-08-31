@@ -23,25 +23,27 @@ The transcripts are raw dictation: no punctuation, run-on sentences, homophone e
 
 ## Output structure
 
-Use this exact skeleton. Section headers and ordering are fixed; the `###` subsection groupings inside Part 1 and the number of narrative points in Part 3 should flex to match what the lecture actually covers.
+Use this exact skeleton. Section headers and ordering are fixed; the `#####` subsection groupings inside Part 1 and the number of narrative points in Part 3 should flex to match what the lecture actually covers.
+
+**Heading levels matter.** Everything below nests *inside* the file's existing `## Summary` heading (H2), so the levels here start one deeper than they might look at first glance — the sub-title is H3, the three numbered parts are H4, and their inner groupings are H5. Never let a child heading be the same level as or shallower than its parent (e.g. a heading nested under `## Summary` must never itself be `#` or `##`) — that's the exact bug this template used to have and that got fixed by hand across the three existing lecture files.
 
 ```markdown
-# Lecture N[, Part M]: <Descriptive Title> — Entities, Relationships & Summary
+### Lecture N[, Part M]: <Descriptive Title> — Entities, Relationships & Summary
 
-## 1. Key Keyword Entities in Tennessee History
+#### 1. Key Keyword Entities in Tennessee History
 
-### <Thematic grouping, e.g. "Chronological Eras & Cultural Traditions">
+##### <Thematic grouping, e.g. "Chronological Eras & Cultural Traditions">
 * **<Entity name>:** <one to two sentence description — what it is, when, why it matters>
 * **<Entity name>:** <description>
 
-### <Another thematic grouping, e.g. "Key Figures" / "Places & Geographic Entities" / "Major Events & Conflicts" / "Historiographical Frameworks">
+##### <Another thematic grouping, e.g. "Key Figures" / "Places & Geographic Entities" / "Major Events & Conflicts" / "Historiographical Frameworks">
 * **<Entity name>:** <description>
 
 (3-5 thematic groupings total, chosen to fit the lecture's actual content — don't force categories that have nothing in them.)
 
 ---
 
-## 2. Relationships Between Entities
+#### 2. Relationships Between Entities
 
 \`\`\`text
 [Earliest/Root Entity] (date or date range)
@@ -61,7 +63,7 @@ Use this exact skeleton. Section headers and ordering are fixed; the `###` subse
 [Convergence / Outcome Entity]
 \`\`\`
 
-### Key Dynamics & Evolutionary Drivers
+##### Key Dynamics & Evolutionary Drivers
 1. **<Throughline name>:** <1-2 sentence synthesis of a major causal chain running through the lecture>
 2. **<Throughline name>:** <...>
 3. **<Throughline name>:** <...>
@@ -69,7 +71,7 @@ Use this exact skeleton. Section headers and ordering are fixed; the `###` subse
 
 ---
 
-## 3. Lecture Summary
+#### 3. Lecture Summary
 
 <One-sentence framing of what the lecture covers overall.>
 
@@ -78,6 +80,8 @@ Use this exact skeleton. Section headers and ordering are fixed; the `###` subse
 3. **<Phase title> (<date range>):** <...>
 (as many numbered phases as the lecture naturally breaks into — usually 3-5)
 ```
+
+If a target file's `## Summary` heading turns out to be at a different depth than H2 (or the file has no separate sub-title line before Part 1, as in `Week1/#2 The first Tennesseans.md`), adjust every level below it so the nesting stays monotonic — no skipped levels, and no child at the same or a shallower level than its parent.
 
 ## Style notes
 
