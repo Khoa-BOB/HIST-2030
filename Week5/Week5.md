@@ -1,0 +1,20 @@
+# Week 5 Summary & Study Focus
+
+**Big picture:** Week 5 finishes antebellum Tennessee by moving from politics to society. It covers population growth and the cotton boom, the transportation revolution, the three-tier white class structure and the culture of each class, the lives of enslaved people and the rise and fall of the state's anti-slavery movement, and finally the lives of women across class lines. Together these set up the road to the Civil War.
+
+### Quick recap
+- **Lecture 17 – Antebellum Economy & Society:** Migration from the East grows the population ~162% (mostly Middle and West TN). Memphis and Nashville become big cities, but the state stays mostly rural. The **cotton boom** reshapes West Tennessee, and there are ~3,000 plantations (20+ enslaved people) by 1860, yet the typical farm was a modest 50–100 acres.
+- **Lecture 18 – Transportation, Class & Culture:** Steamboats reach the Mississippi (1811) and Cumberland (1819), leaving East TN behind because the Tennessee River was hard to navigate. Railroads take off only in the 1850s, mostly on north–south lines (L&N, with the Memphis & Charleston as the exception). White society splits into **planter aristocracy / yeomen / poor whites**, with ~7,300 free people of color by 1860. Elites cultivate highbrow culture while most people enjoy a backcountry culture of horse racing, fiddles, log rollings, and an honor code of brawls and duels.
+- **Lecture 19 – Slavery & Anti-Slavery:** ~25% of Tennesseans are enslaved by 1860. Their lives vary by place (West TN plantation, East TN farm, or city). Enslaved women do both field and domestic labor (Priscilla Gray), and historian Beverly Bond shows how they built community. The Tennessee Manumission Society (1815) and Fanny Wright's Nashoba colony both fade, and churches flip from opposing slavery to defending it by the 1850s.
+- **Lecture 20 – Women, pt. 1 (Plain Folk):** Class, geography, and race shape women's lives. Plain folk and yeoman women live by an "ethic of personal labor," and **all women labored**. Most were newcomers whose husbands decided relocations, and widows often ran whole farms.
+- **Lecture 21 – Women, pt. 2 (Planter Class):** The "southern belle" is a Hollywood myth. Planter women managed households, raised children in the faith, and held real, sometimes brutal, power as "mistress" over enslaved people. Case study: **Lucy Virginia Smith French**, a Memphis teacher and writer who married a McMinnville planter and whose family sided with the Confederacy.
+
+### What to focus on
+1. **Myth vs. reality is the theme of the week:** the plantation South vs. modest farms (L17), the idle southern belle vs. constant female labor (L20–21), and the church as an anti-slavery force vs. a defender of slavery (L19).
+2. **Geography shapes everything:** River navigability favors Middle and West TN, cotton defines West TN, East TN has more yeomen and anti-slavery sentiment, and where an enslaved person lived determined their labor and mobility.
+3. **Class structure and resentment:** A large yeoman class distrusted the planter "aristocrats," which gave Andrew Johnson's politics their appeal. Keep this in mind for Tennessee's divided loyalties in the Civil War.
+4. **Slavery's reach:** With a quarter of the population enslaved, even non-slaveholders lived in a slave economy, and planter women's leisure and power rested directly on enslaved labor.
+5. **Resilience and resistance:** Enslaved people built community through secret parties, quilting bees, and market networks, and mothers risked punishment to see children sold away.
+6. **Anchor dates:** 1811 (Mississippi steamboat), 1815 (Tennessee Manumission Society), 1819 (Cumberland steamboats), mid-1820s (Nashoba founded), 1830s (railroad fever begins; anti-slavery movement declines), 1850s (rail boom; clergy defend slavery), 1860 (~25% enslaved, ~3,000 plantations, ~7,300 free people of color).
+
+*(Full entity/relationship/summary breakdowns for each lecture are in `#17 AntebellumTN_Econ&Society.md`, `#18 EvenMoreAntebellumTN.md`, `#19.md`, `#20.md`, and `#21.md`. This section is the condensed, "what actually matters" version.)*
