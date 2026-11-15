@@ -1,0 +1,18 @@
+# Week 9 Summary & Study Focus
+
+**Big picture:** Week 9 covers Tennessee from the late 1870s to 1920. It starts with the 1878 yellow fever epidemic in Memphis, moves through the New South economy and Jim Crow, and ends with the Progressive Era fights over prohibition and women's suffrage.
+
+### Quick recap
+- **Lecture 36 – Yellow Fever Epidemic of 1878:** Mosquito-borne **yellow fever** came from Africa through the Atlantic trade. Memphis was hit because of river and rail networks, an **El Niño** winter, non-immune immigrants, and a corrupt, filthy city with no waterworks or sewers. More than **25,000** fled; **17,000** of the **19,000** who stayed got sick. The **Sisters of St. Mary's** and **Annie Cook** stayed to give care. Memphis lost its charter and was a **taxing district** until **1893**. *[Correction: the lecture says the charter was revoked on the last day of 1878; the repeal passed at the end of January 1879.]* **Carlos Finlay** (1881) and **Walter Reed** solved the mosquito mystery.
+- **Lecture 37 – The New South:** The **New South** was mostly a PR slogan, as the **1897 Centennial** and its Parthenon show. The state stayed agricultural, with **sharecropping**, while mining, timber, and railroads grew. Miners fought **convict leasing** in the Coal Miner War (1891–1893). *[Correction: the Coal Creek War, 1891–1892.]* **Jim Crow** and race-blind voting rules spread, but **Crump's** machine kept Black men voting in Memphis. **Ida B. Wells** was exiled after the **People's Grocery lynching (1892)**, and **Mary Church Terrell** became a national voice.
+- **Lecture 38 – Prohibition:** **Wets and dries** split the state. After the amendment failed in the 1880s, dries used the **Four Mile Law** and a **1909** manufacturing ban. Mayors **Crump** and **Howse** refused to enforce them, so Governor **Rye** backed the **Ouster Law**, which removed both. Memphis closed its red-light district in **1917**.
+- **Lecture 39 – Women's Suffrage:** Slow Southern growth came from weak abolitionism, the **pedestal**, and biblical arguments. **Lide Meriwether** founded the Memphis league in **1889**, and **John Vertrees** led the opposition. After a limited franchise in **1919**, **Harry Burn's** vote made Tennessee the **36th** state to ratify the **19th Amendment (Aug. 1920)**.
+
+### What to focus on
+1. **"Why Memphis?":** The lecturer says this will be on the **final exam**. Know transportation, El Niño, immigrants, population growth, corrupt government, the sick-city reputation, and the lack of infrastructure, plus the Cuba and quarantine link.
+2. **The Tennessee exception:** Republicans could still win, and Black men never entirely lost the vote, partly because of the Crump machine. This continues Week 8's "colorblind" voting restrictions and poll tax.
+3. **Linked reform movements:** Temperance led women to suffrage, prohibitionists backed voter restrictions, and liquor and urban machines fought both causes.
+4. **Rural vs. urban tension:** Small towns went dry while Memphis, Nashville, and Chattanooga resisted.
+5. **Anchor dates:** 1648 (first Western Hemisphere epidemic), 1878 (epidemic), 1881 (Finlay; separate rail coaches), 1889 (Memphis suffrage league), 1892 (People's Grocery lynching), 1893 (Memphis's taxing-district status ends), 1897 (Centennial; Equal Rights Association), 1909 (manufacturing ban), 1914 (Rye elected), 1917 (red-light district closed), 1919 (limited franchise), Aug. 1920 (19th Amendment).
+
+*(Full entity/relationship/summary breakdowns are in `#36.md`, `#37.md`, `#38.md`, and `#39.md`. This section is the condensed, "what actually matters" version.)*

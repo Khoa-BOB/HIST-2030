@@ -14,7 +14,7 @@ Possible Topics
 
 | Topic | Week | Lecture(s) |
 |---|---|---|
-| Tennessee's prehistoric past | Week 1 | `#2 The first Tennesseans` (Paleo → Archaic → Woodland → Mississippian), `#3 Firt Tennesseans, pt2` (Mississippian shatter zone, contact) |
+| Tennessee's prehistoric past | Week 1 | `#1 Tennessee History & Deep time` (prehistory defined, geological deep time, Gray Fossil Site), `#2 The first Tennesseans` (Paleo → Archaic → Woodland → Mississippian), `#3 Firt Tennesseans, pt2` (Mississippian shatter zone, contact) |
 | New Madrid earthquakes | Week 4 | `NewMaridEarthquaks+SecondGreatAwakening in TN` |
 | The Lost State of Franklin | Week 3 | `The Frontier, pt 6` (main); `Southwest Territory` (Franklin's collapse → territory) |
 | Path to statehood (Franklin, Southwest Territory, statehood) | Week 3 | `The Frontier, pt 6` (Franklin), `Southwest Territory` (1790 territory, Treaty of Holston, Blount), `Early statehood` (1796 admission) |
